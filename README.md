@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bordalaz.github.io/rsschool-cv/cv
