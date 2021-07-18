@@ -25,7 +25,7 @@
 
 ## Work experience
 
-* march 2016 - present - filial "SSK-techology" AO "SSK", drilling engineer (measurement while drilling/logging while drillin)
+* march 2016 - present - filial "SSK-technology" AO "SSK", drilling engineer (measurement while drilling/logging while drillin)
 * november 2006 - february 2016 - OOO "TomskGazpromGeofizika", engineer geophisics, head of the field-geophysical party
 
 ## Special skills
@@ -34,7 +34,7 @@
 * Working knowledge of English (Basic knowledge);
 * HTML&CSS basic;
 * Python basic;
-* Computer literacy (OS Windows, MS Office, IDE, office equipments...);
+* Computer literacy (OS Windows, MS Office, Photoshop, CorelDRAW, petroSoft, VSCode, office equipments...);
 * Driving license (B category);
 * Hobbies: foreign languages, chess, football, reading books;
 
