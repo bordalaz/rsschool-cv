@@ -19,9 +19,9 @@
 
 ## Qualifications
 
-*  february 2021 - BeOnMax, courses HTML&CSS, Certificate https://github.com/bordalaz/certificate/blob/main/img/HTML_and_CSS.png;
-*  march 2021 - Netology university, courses Python-development-for-beginners https://github.com/bordalaz/certificate/blob/main/img/Python-development-for-beginners.png;
-*  april 2021 - Netology university, courses HTML&CSS basics, certificate https://github.com/bordalaz/certificate/blob/main/img/Basic-HTML%26CSS.png;
+*  february 2021 - BeOnMax, courses HTML&CSS, [Certificate](https://github.com/bordalaz/certificate/blob/main/img/HTML_and_CSS.png);
+*  march 2021 - Netology university, courses Python-development-for-beginners [Certificate](https://github.com/bordalaz/certificate/blob/main/img/Python-development-for-beginners.png);
+*  april 2021 - Netology university, courses HTML&CSS basics, [Certificate](https://github.com/bordalaz/certificate/blob/main/img/Basic-HTML%26CSS.png);
 
 ## Work experience
 
