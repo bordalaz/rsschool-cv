@@ -30,12 +30,12 @@ november 2006 - february 2016 - OOO "TomskGazpromGeofizika", engineer geophisics
 ## Special skills
 
 * Native Russian;
-* Working knowledge of English (Basic knowledge)
+* Working knowledge of English (Basic knowledge);
 * HTML&CSS basic;
 * Python basic;
 * Computer literacy (OS Windows, MS Office, IDE, office equipments...);
 * Driving license (B category);
-* Hobbies: foreign languages, chess, football, reading books
+* Hobbies: foreign languages, chess, football, reading books;
 
 
 ## Personal qualities:
