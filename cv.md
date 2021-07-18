@@ -14,7 +14,7 @@
 
 *  2000-2006-Tomsk Polytechnic University, Faculty of Physics and Technology, specialty 140306 "Electronics and automation of physical installations", qualification engineer-physicist;
 *  november 2013-November 2014-National Research Tomsk Polytechnic University, professional retraining under the program "Development and operation of oil and gas fields";
-*  april 2021 - present - Netology university, specialty Web-developer (example my first wrok https://codepen.io/bordalaz/pen/dyvmXVy);
+*  april 2021 - present - Netology university, specialty Web-developer ![example my first wrok] (https://codepen.io/bordalaz/pen/dyvmXVy);
 *  june 2021 - present - Tomsk State University of Control Systems and Radioelectronics, specialty "Software engineering";
 
 ## Qualifications
