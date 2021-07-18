@@ -24,8 +24,8 @@
 
 ## Work experience
 
-march 2016 - present - filial "SSK-techology" AO "SSK", drilling engineer (measurement while drilling/logging while drillin)
-november 2006 - february 2016 - OOO "TomskGazpromGeofizika", engineer geophisics, head of the field-geophysical party
+* march 2016 - present - filial "SSK-techology" AO "SSK", drilling engineer (measurement while drilling/logging while drillin)
+* november 2006 - february 2016 - OOO "TomskGazpromGeofizika", engineer geophisics, head of the field-geophysical party
 
 ## Special skills
 
