@@ -1,7 +1,7 @@
 # Denis Prikhodko
 
-*  Birth date: 1983-01-04
-*  Family status: married, two children
+*  **Birth date: 1983-01-04
+*  **Family status: married, two children
 
 ## Contact info:
 
