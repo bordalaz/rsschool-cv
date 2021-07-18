@@ -13,7 +13,7 @@
 ## Educations
 
 *  2000-2006-Tomsk Polytechnic University, Faculty of Physics and Technology, specialty 140306 "Electronics and automation of physical installations", qualification engineer-physicist;
-*  November 2013-November 2014-National Research Tomsk Polytechnic University, professional retraining under the program "Development and operation of oil and gas fields";
+*  november 2013-November 2014-National Research Tomsk Polytechnic University, professional retraining under the program "Development and operation of oil and gas fields";
 *  june 2021 - present - Tomsk State University of Control Systems and Radioelectronics, specialty "Software engineering";
 
 ## Qualifications
