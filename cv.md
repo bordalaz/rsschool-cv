@@ -14,9 +14,10 @@
 
 *  2000-2006-Tomsk Polytechnic University, Faculty of Physics and Technology, specialty 140306 "Electronics and automation of physical installations", qualification engineer-physicist;
 *  November 2013-November 2014-National Research Tomsk Polytechnic University, professional retraining under the program "Development and operation of oil and gas fields";
-*  febrгary 2021 - BeOnMax, courses HTML&CSS, Certificate;
-*  march 2021 - Netology university, courses Python-development-for-beginners;
-*  april 2021 - Netology university, courses HTML&CSS basics, certificate;
+*  febrгary 2021 - BeOnMax, courses HTML&CSS, Certificate https://github.com/bordalaz/certificate/blob/main/img/HTML_and_CSS.png;
+*  march 2021 - Netology university, courses Python-development-for-beginners https://github.com/bordalaz/certificate/blob/main/img/Python-development-for-beginners.png;
+*  april 2021 - Netology university, courses HTML&CSS basics, certificate https://github.com/bordalaz/certificate/blob/main/img/Basic-HTML%26CSS.png;
+*  june 2021 - to the present - Tomsk State University of Control Systems and Radioelectronics, specialty "Software engineering";
 
 ## Personal qualities:
 
