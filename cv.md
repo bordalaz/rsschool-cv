@@ -1,6 +1,7 @@
 # Denis Prikhodko
 
 *  Birth date: 1983-01-04
+*  Family status: married, two children
 
 ## Contact info:
 
@@ -8,6 +9,12 @@
 *  tel: +79131084825
 *  country: Russia
 *  city: Tomsk
+
+## Educations
+
+*  2000-2006-Tomsk Polytechnic University, Faculty of Physics and Technology, specialty 140306 "Electronics and automation of physical installations", qualification engineer-physicist;
+*  November 2013-November 2014-National Research Tomsk Polytechnic University, professional retraining under the program "Development and operation of oil and gas fields";
+*  april 2021 - Netolgy university, courses HTML&CSS basics, certificate;
 
 ## Personal qualities:
 
